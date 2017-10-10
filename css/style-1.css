@@ -1,0 +1,25 @@
+#external
+{
+	font-family: sans-serif;
+	font-size: 35px;
+	color: #E50A00;
+	text-align: center;
+
+}
+
+.myClass-1
+{
+
+	background: #429bf4
+}
+
+.myClass-1 strong
+{
+	font-family: Impact;
+}
+
+.myClass-1 em
+{
+	font-family: cursive;
+
+}
